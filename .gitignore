@@ -1,0 +1,9 @@
+.env
+credentials.json
+speech.mp3
+/venv
+/.venv
+/.idea
+/images
+
+/__pycache__
